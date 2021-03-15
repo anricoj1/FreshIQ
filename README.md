@@ -1,13 +1,5 @@
-<style>
-    .header {
-        padding-top: 30px;
-        color: orange;
-    }
-
-</style>
-
-# FreshIQ
-<h1 class="header">Commands</h1>
+<h1 style="color: orange">FreshIQ</h1>
+<h1 style="padding-top: 30px; color: orange">Commands</h1>
 <ul>
     <li>Run a Postman Collection</li>
     <ul>
@@ -25,7 +17,7 @@
 </ul>
 
 
-<h1 class="header">Requirements</h1>
+<h1 style="padding-top: 30px; color: orange">Requirements</h1>
 <ul>
     <li><a href="https://nodejs.org/en/">Node.js 14.15.5 LTS</a></li>
     <ul>
@@ -42,7 +34,7 @@
 </ul>
 
 
-<h1 class="header">Guide</h1>
+<h1 style="padding-top: 30px; color: orange">Guide</h1>
 <ul>
     <li>npm is a package manager for JavaScript</li>
     <li>In root directory:</li>
